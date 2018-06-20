@@ -1,5 +1,5 @@
 <html>
-<head><title>Welcome to Github</title></head>
+
 
 <body>
 <h1>Hello Github</h1>
